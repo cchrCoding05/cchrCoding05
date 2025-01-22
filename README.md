@@ -1,29 +1,32 @@
+# ![Mi Banner](https://github.com/cchrCoding05/cchrCoding05/blob/main/banner.png)  
 # ¡Hola! 👋 Soy **Chahine**  
-Soy **desarrollador de aplicaciones web** apasionado por crear soluciones eficientes y elegantes. 🚀
+Soy **desarrollador de aplicaciones web** apasionado por crear soluciones eficientes y elegantes. 🚀  
 
 ---
 
 ## 🌟 Sobre mí  
 - 🎓 Siempre aprendiendo y explorando nuevas tecnologías.  
 - 💻 Apasionado por el desarrollo web y la automatización de tareas.  
-- 🌍 Idiomas: Español, Inglés.
+- 🌍 Idiomas: Español, Inglés.  
 
 ---
 
 ## ⚡ Habilidades  
 ### Lenguajes  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000) 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)  
 
 ### Frameworks y Herramientas  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000) 
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=fff) 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=fff)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)  
 
 ### Bases de Datos  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff) 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)  
 
 ---
 
