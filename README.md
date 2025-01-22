@@ -7,7 +7,7 @@ Soy **desarrollador de aplicaciones web** apasionado por crear soluciones eficie
 ## 🌟 Sobre mí  
 - 🎓 Siempre aprendiendo y explorando nuevas tecnologías.  
 - 💻 Apasionado por el desarrollo web y la automatización de tareas.  
-- 🌍 Idiomas: Español, Inglés.  
+- 🌍 Idiomas: Español, Inglés, Arabe.  
 
 ---
 
